@@ -125,3 +125,7 @@
     height: 330px;
     border-radius: 1.5rem;
   }
+
+  svg {
+    border-radius: 1.5rem;;
+  }
